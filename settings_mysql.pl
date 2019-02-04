@@ -6,7 +6,7 @@
 $g_db_user = 'root';
 
 # Database user password.
-$g_db_pass = 'abcd1234';
+$g_db_pass = 'root';
 
 # The name of the database to use.
 $g_db_name = 'ngsdb';
